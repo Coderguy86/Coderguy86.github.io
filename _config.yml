@@ -24,7 +24,7 @@ urls:
 
 # Edit these details
 
-author_logo: Profile.jpg
+author_logo: profile.png
 author: Joshua Watts
 author_bio: Hi, my name is Joshua Watts. I built this site using devlopr-jekyll :D
 author_email: "coderguy86@gmail.com"
